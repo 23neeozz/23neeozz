@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://github.com/23neeozz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3000&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Cloud+Platforms;Specialized+in+Go%2C+Microservices+%26+Next.js;Enterprise+KVM+Virtualization+%26+Distributed+Systems;Architecting+VPSFlow+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3000&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Building+High-Performance+Cloud+Platforms;Specialized+in+Go%2C+Microservices+%26+Next.js;Enterprise+KVM+Virtualization+%26+Distributed+Systems;Architecting+Modern+Distributed+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,7 +14,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Cloud%20Infrastructure%20%26%20Distributed%20Systems-168BFF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Current%20Project-VPSFlow-101722?style=for-the-badge&logo=linux&logoColor=56B5FF" />
+    <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Zero%20Trust-101722?style=for-the-badge&logo=shield&logoColor=56B5FF" />
   </p>
 
 </div>
@@ -23,9 +23,9 @@
 
 ### 🚀 Sobre Mí
 
-- 🔭 **En qué estoy trabajando actualmente:** Desarrollando **[VPSFlow](https://github.com/23neeozz/VPSFlow)** — una plataforma integral de infraestructura cloud para la orquestación a gran escala de virtualización KVM, microservicios en Go y paneles web de última generación.
+- 🔭 **En qué estoy trabajando actualmente:** Diseñando y desarrollando plataformas de infraestructura cloud escalables, microservicios en Go de alta concurrencia y aplicaciones web full-stack modernas.
 - ⚡ **Áreas de especialidad:** Sistemas concurrentes en **Go**, arquitectura orientada a eventos (**NATS JetStream**), virtualización basada en **KVM/libvirt**, APIs REST/gRPC y frontends modernos con **Next.js** y **TypeScript**.
-- 🛠️ **Filosofía de desarrollo:** *Zero Trust*, clean architecture, código tipado, baja latencia y experiencias de usuario con acabados ultra-premium.
+- 🛠️ **Filosofía de desarrollo:** *Zero Trust*, clean architecture, código fuertemente tipado, baja latencia y experiencias de usuario con acabados ultra-premium.
 - 💬 **Hablemos de:** Infraestructura cloud, diseño de microservicios, optimización de rendimiento y DevOps.
 
 ---
@@ -60,18 +60,21 @@
 
 ---
 
-### 🌟 Proyecto Destacado
+### 📌 Áreas de Enfoque
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>☁️ <a href="https://github.com/23neeozz/VPSFlow">VPSFlow — Enterprise Cloud Infrastructure Platform</a></h3>
-      <p>
-        Plataforma empresarial para la gestión, orquestación y aprovisionamiento a gran escala de virtualización KVM, almacenamiento distribuido y redes definidas por software (SDN).
-      </p>
-      <p>
-        <b>Tech Stack:</b> Go 1.23 • Next.js 14 • KVM / Libvirt • NATS JetStream • PostgreSQL • Redis • MinIO • OpenTelemetry • Docker
-      </p>
+    <td width="33%" align="center">
+      <h3>☁️ Cloud & Virtualización</h3>
+      <p>Gestión de infraestructura a gran escala, orquestación de hipervisores KVM y redes definidas por software.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚡ Sistemas Distribuidos</h3>
+      <p>Microservicios de alto rendimiento en Go, arquitecturas reactivas con NATS JetStream y mTLS Zero Trust.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🌐 Frontend Moderno</h3>
+      <p>Paneles de control y aplicaciones web responsivas, fluidas y oscuras con Next.js 14, React y TailwindCSS.</p>
     </td>
   </tr>
 </table>
